@@ -1,0 +1,1 @@
+# MANA_grafico_de_barras_CANVAS
